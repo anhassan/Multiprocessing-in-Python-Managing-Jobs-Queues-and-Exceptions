@@ -121,7 +121,7 @@ if __name__ == "__main__":
     main()
 ```
 
-The architectural diagram below for a particular use case will make things more clear of how the framework works
+The architectural diagram below for a particular use case will make things more clear for how the framework works
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*lZYc5YbbSKwRwCAwkjqlug.png)
 
